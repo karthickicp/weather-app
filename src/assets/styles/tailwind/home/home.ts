@@ -1,0 +1,1 @@
+export const cover = 'absolute -z-10 w-screen h-full object-cover lg:h-screen'
